@@ -1,7 +1,7 @@
 /***********************************************************************************/
 * Programmer: Talal Alshihayb
 * Date: November 9, 2021
-* Purpose: Commented code to replicate "Periodontal side differences in NHANES";
+* Purpose: Commented code to replicate "Exploring Periodontitis Misclassification Mechanisms Under Partial-mouth Protocols";
 ************************************************************************************/
 
 /********************************************************************************************************************/
