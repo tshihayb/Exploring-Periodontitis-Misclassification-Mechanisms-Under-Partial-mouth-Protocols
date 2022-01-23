@@ -16,7 +16,7 @@
 /* Code Section 1 - Downloading and cleaning datasets*/ 
 /******************************************************/
 
-/* Set working directory to your location*/
+/* Set working directory to your location*/;
 libname raw 'C:\Users\Tshih\OneDrive\Periodontal side differences in NHANES\Raw data';
 
 
